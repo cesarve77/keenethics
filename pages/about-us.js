@@ -14,7 +14,7 @@ const AboutUs = () => (
     <section className="page__wrapper page__about-us">
       <div className="page__header">
         <h1 className="page__title">
-          CODE FOR BUSINESS&nbsp;
+          test CODE FOR BUSINESS&nbsp;
           <nobr>
             <img className="keen-dot" src="/static/images/keen-dot.svg" alt="" />
           </nobr>
