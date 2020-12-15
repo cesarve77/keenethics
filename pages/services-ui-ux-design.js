@@ -222,7 +222,7 @@ const ServicesUiUxDesign = () => {
         <section>
           <h2>What is our experience in UI/UX design?</h2>
           <p>
-            ThThese are some of the applications and websites that our design
+            These are some of the applications and websites that our design
             company as a UI design agency has developed:
           </p>
           <div>
@@ -692,9 +692,8 @@ const ServicesUiUxDesign = () => {
           <h2>Why choose KeenEthics?</h2>
           <WhyKeenethicsList list={whyKeenethics} />
         </section>
-        <h2>Now, let’s discuss your business idea!</h2>
-        <LetsStart />
       </div>
+      <LetsStart />
     </Layout>
   );
 };
